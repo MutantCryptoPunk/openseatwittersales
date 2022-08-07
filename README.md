@@ -10,7 +10,7 @@ To track sales across multiple marketplaces (X2Y2, LooksRare etc.), use my new r
 
 If you find this script/repo useful for your project, any ETH/Altcoin/NFT donations are greatly appreciated 🙏
 
-Eth Address: 0xDCA88f66CEc8972D23DE7d5e69c40E087C92132f
+Eth Address: 0xae783Cbb95824b93755CB7B06fCbbd68134c18Ec
 
 ## Requirements 📝
 
